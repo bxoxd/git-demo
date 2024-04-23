@@ -1,7 +1,7 @@
 My Project
 I am learning to use git.
 This is the test branch.
-```
+```shell
 git remote show origin
 git branch -vv
 git checkout -b test origin/test
