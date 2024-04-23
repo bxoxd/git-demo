@@ -6,3 +6,5 @@ git remote show origin
 git branch -vv
 git checkout -b test origin/test
 git checkout --track origin/test
+
+try to push
